@@ -1,0 +1,274 @@
+
+#div_titulo{
+    /*border: solid red;*/
+    height:40px;
+    width:100%;
+    
+}
+
+#h1_titulo{
+    color:black;
+    font-size: 15px;
+    font-family: "Yusei Magic", sans-serif;
+    /*border: solid black;*/
+    width: 200px;
+    margin-left: 172px;
+}
+
+#div_cuerpo{
+    margin-top: 0%;
+    background-color:#eaeaea;
+    /*border: solid green;*/
+    width:100%;
+    
+}
+/*Primera Foto*/
+#F1_princ{
+    /*border:solid red;*/
+    height:200px;
+    width:200px;
+    margin-left: 175px;
+    margin-top:20px;
+}
+
+#F1_encabezado{
+    /*border:solid blue;*/
+    height:20px;
+    width:195px;
+    background-color: white;
+}
+
+#F1_foto{
+    /*border:solid blue;*/
+    height:140px;
+    width:195px;
+ }
+
+#F1_pie{
+    /*border:solid blue;*/
+    height:27px;
+    width:195px;
+    background-color: white;
+}
+
+#foto1{
+    height:140px;
+    width:195px;
+ }
+
+ #F1_izq{
+     color: black;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 5px;
+     margin-top: 5px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+
+ #F1_der{
+     color: #aaaeb0;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 175px;
+     margin-top: -8px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+ #F1_texto{
+    color: black;
+    margin: 0%;
+    font-size: 7px;
+    margin-top: 4px;
+    margin-left: 4px;
+ }
+
+ /*Segunda Foto*/
+ #F2_princ{
+    /*border:solid orange;*/
+    height:200px;
+    width:200px;
+    margin-left: 175px;
+    margin-top:20px;
+}
+
+#F2_encabezado{
+    
+    /*border:solid blue;*/
+    height:20px;
+    width:195px;
+    background-color: white;
+}
+
+#F2_foto{
+   /* border:solid blue;*/
+    height:140px;
+    width:195px;
+    min-height: 100px;
+    background-size: cover;
+    background-position: center;
+ }
+
+#F2_pie{
+ /*   border:solid blue;*/
+    height:27px;
+    width:195px;
+    background-color: white;
+}
+
+#foto2{
+    height:140px;
+    width:195px;
+    
+ }
+
+ #F2_izq{
+     color: black;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 5px;
+     margin-top: 5px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+
+ #F2_der{
+     color: #aaaeb0;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 175px;
+     margin-top: -8px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+ #F2_texto{
+    color: black;
+    margin: 0%;
+    font-size: 7px;
+    margin-top: 8px;
+    margin-left: 4px;
+ }
+
+ /*Tercera Foto*/
+ #F3_princ{
+    /*border:solid red;*/
+    height:200px;
+    width:200px;
+    margin-left: 175px;
+    margin-top:20px;
+}
+
+#F3_encabezado{
+    
+   /* border:solid blue;*/
+    height:20px;
+    width:195px;
+    background-color: white;
+}
+
+#F3_foto{
+   /* border:solid blue;*/
+    height:140px;
+    width:195px;
+    min-height: 100px;
+    background-size: cover;
+    background-position: center;
+ }
+
+#F3_pie{
+  /*  border:solid blue;*/
+    height:27px;
+    width:195px;
+    background-color: white;
+}
+
+#foto3{
+    height:140px;
+    width:195px;
+    
+ }
+
+ #F3_izq{
+     color: black;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 5px;
+     margin-top: 5px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+
+ #F3_der{
+     color: #aaaeb0;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 175px;
+     margin-top: -8px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+ #F3_texto{
+    color: black;
+    margin: 0%;
+    font-size: 7px;
+    margin-top: 4px;
+    margin-left: 4px;
+ }
+
+ /*Cuarta Foto*/
+ #F4_princ{
+   /* border:solid orange;*/
+    height:275px;
+    width:200px;
+    margin-left: 175px;
+    margin-top:20px;
+}
+
+#F4_encabezado{
+    
+  /*  border:solid blue;*/
+    height:60px;
+    width:195px;
+    background-color: white;
+}
+
+#F4_foto{
+   /* border:solid blue;*/
+    height:140px;
+    width:195px;
+    min-height: 100px;
+    background-size: cover;
+    background-position: center;
+ }
+
+#F4_pie{
+  /*  border:solid blue;*/
+    height:60px;
+    width:195px;
+    background-color: white;
+}
+
+#foto4{
+    height:140px;
+    width:195px;
+    
+ }
+
+ #F4_izq{
+     color: black;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 5px;
+     margin-top: 5px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+
+ #F4_der{
+     color: #aaaeb0;
+     font-size: 8px;
+     margin: 0%;
+     margin-left: 175px;
+     margin-top: -8px;
+    font-family: "Londrina Solid", sans-serif;
+ }
+ #F4_texto{
+    color: black;
+    margin: 0%;
+    font-size: 6px;
+    margin-top: 40px;
+    margin-left: 4px;
+ }
